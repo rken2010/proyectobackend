@@ -1,0 +1,29 @@
+# NuevoProductos
+components:
+ requestBodies:
+   NuevoProductos:
+     type: object
+     required:
+       - titulo
+       - precio
+       - thumbnail
+       - descripcion
+     properties:
+       titulo:
+         type: string
+         description: Nombre identificatorio del producto.
+       precio:
+         type: number
+         description: El valor monetario del producto.
+       thumbnail:
+         type: string
+         description: contiene la URL de la imagen del producto.
+       descripcion:
+         type: string
+         description: Una breve descripcion del producto.
+     example:
+        id: 4ughd73658fnsk85dh58sk
+        titulo: desktop computer
+        precio: 123.78
+        thumbnail: http://photo.url.png
+        descripcion: PC de escritorio

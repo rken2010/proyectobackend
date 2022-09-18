@@ -5,7 +5,7 @@
   "main": "app.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "mocha ./src/test/app.test.js",
     "start": "nodemon ./src/app.js"
   },
   "author": "JUAN RAMON RUIZ DIAZ",
@@ -22,9 +22,12 @@
     "passport": "^0.6.0",
     "passport-local": "^1.0.0",
     "swagger-client": "^3.18.5",
-    "swagger-ui": "^4.14.0"
+    "swagger-ui": "^4.14.0",
+    "swagger-ui-express": "^4.5.0",
+    "winston": "^3.8.2"
   },
   "devDependencies": {
+    "@faker-js/faker": "^7.5.0",
     "chai": "^4.3.6",
     "mocha": "^10.0.0",
     "supertest": "^6.2.4"
