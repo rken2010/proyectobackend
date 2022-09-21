@@ -9,5 +9,6 @@ export default {
     NODE_ENV: process.env.NODE_ENV || "development",
     HOST: process.env.HOST || "localhost",
     PORT: process.env.PORT || 8080,
-    PERSISTENCIA: process.env.PERSISTENCIA || "mem"
+    PERSISTENCIA: process.env.PERSISTENCIA || "FILE",
+    FILE_DB: process.env.FILE_DB
 }

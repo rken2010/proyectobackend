@@ -3,19 +3,28 @@ import config from "./config/config.js"
 
 import logger from "./scripts/logger.js"
 
+import RouterProductos from "../src/routing/RouterProductos.js"
+import RouterMensajes from "./routing/RouterMensajes.js"
 
+/*
 import swaggerSpecs from "./scripts/documentacion.js"
 import SwaggerUI from "swagger-ui-express"
-
+*/
 const app = express()
 
 app.use( express.static("public"))
 app.use( express.json())
 
+/*
+
 app.use("api/docs", SwaggerUI.serve, SwaggerUI.setup(swaggerSpecs) )
-
+*/
 //---------------RUTAS ------------------//
+const routerProductos = new RouterProductos()
+const routerMensajes = new RouterMensajes()
 
+app.use("/", routerProductos.inicializar())
+app.use("/", routerMensajes.inicializar())
 //---------------------------------------//
 
 
