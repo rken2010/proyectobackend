@@ -1,0 +1,20 @@
+# Crear un Producto
+paths:
+  /api/mensajes:
+    post:
+      summary: Crea un nuevo mensaje
+      tags:
+        - Mensajes
+      requesBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schema/NewProduct"
+      responses:
+        "201":
+          description: Se crea el mensaje.
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schema/NewProduct"

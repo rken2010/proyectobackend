@@ -1,0 +1,20 @@
+# Crear un Producto
+paths:
+  /api/productos:
+    post:
+      summary: Crea un nuevo Producto
+      tags:
+        - Productos
+      requesBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/requestBody/nuevoProducto"
+      responses:
+        "201":
+          description: Se crea el producto en nuestro catalogo.
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/requestBody/nuevoProducto"

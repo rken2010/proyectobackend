@@ -1,0 +1,6 @@
+tags:
+  - name: Productos
+    description: API para administrar productos
+
+  - name: Mensajes
+    description: API de mensajes de chat

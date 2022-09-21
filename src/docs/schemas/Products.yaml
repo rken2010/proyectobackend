@@ -1,0 +1,33 @@
+# Products
+components:
+  schemas:
+    Product:
+      type: object
+      required:
+        - id
+        - nombre
+        - descripcion
+        - imagen
+        - precio
+      properties:
+        id:
+          type: string
+          description: Identificador autogenerado de cada Producto
+        nombre:
+          type: string
+          description: Nombre del producto
+        descripcion:
+          type: string
+          description: Breve descripcion del producto
+        imagen:
+          type: string
+          description: URL que dirige a la imagen del producto
+        precio:
+          type: number
+          description: Valor numerico asignado a cada Producto
+      example:
+        id: 1661991599943-82752330
+        nombre: Figurita del mundial
+        descripcion: Figuritas del album Panini mundial Qatar 2022
+        imagen: www.figuritas.com/
+        precio: 200

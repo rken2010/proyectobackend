@@ -1,0 +1,34 @@
+# Messages
+components:
+  schemas:
+    Message:
+      type: object
+      required:
+        - id
+        - email
+        - tipo
+        - mensaje
+        - Fecha
+        - mensaje
+      properties:
+        id:
+          type: string
+          description: Identificador autogenerado de cada Producto
+        email:
+          type: string
+          description: Correo electronico identificatorio del usuario
+        tipo:
+          type: boolean
+          description: Si el usuario es Admin ( sistema ) o no
+        fecha:
+          type: string
+          description: Fecha y hora del mensaje
+        mensaje:
+          type: string
+          description: Cuerpo del mensaje
+      example:
+        id: 1661991599943-82752330
+        email: Lilia.Garay@yahoo.com
+        tipo: false,
+        mensaje: Ut quo in dignissimos repellendus explicabo qui facilis et voluptatem. Sapiente consequuntur nobis est autem alias earum mollitia illum rerum. Rem voluptatem fugiat eos et et. Nostrum beatae natus tenetur sed. Tempora dolores dolor est magnam officiis est magni.
+        fecha: 1663780799248
