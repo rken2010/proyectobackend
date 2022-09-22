@@ -1,12 +1,12 @@
 paths:
-  /api/productos:
+  /api/chat:
     get:
-      summary: Muestra todos los productos disponibles
+      summary: Muestra todos los mensajes disponibles
       tags:
-        - Productos
+        - Mensajes
       responses:
         "200":
-          description: Todos los productos disponibles
+          description: Todos los mensajes disponibles
           content:
             application/json:
               schema:

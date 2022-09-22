@@ -1,17 +1,17 @@
 paths:
-  /api/productos/{id}:
+  /api/chat/{id}:
     delete:
-      summary: Borra el producto buscado por medio de su ID
+      summary: Borra el mensaje buscado por medio de su ID
       tags:
-        - Productos
+        - Mensajes
       parameters:
       - name: id
         in: path
-        description: path parameter takes the product id
+        description: path parameter takes the message id
         required: true
         type: string
       responses:
         "204":
           description: No additional info attached
         "404":
-          description: Product not found Error
+          description: message not found Error

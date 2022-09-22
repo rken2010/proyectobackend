@@ -1,6 +1,6 @@
 # Crear un Producto
 paths:
-  /api/mensajes:
+  /api/chat:
     post:
       summary: Crea un nuevo mensaje
       tags:
@@ -10,11 +10,11 @@ paths:
         content:
           application/json:
             schema:
-              $ref: "#/components/schema/NewProduct"
+              $ref: "#/components/schema/NewMessage"
       responses:
         "201":
           description: Se crea el mensaje.
           content:
             application/json:
               schema:
-                $ref: "#/components/schema/NewProduct"
+                $ref: "#/components/schema/NewMessage"

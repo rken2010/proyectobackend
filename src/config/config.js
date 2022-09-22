@@ -10,5 +10,7 @@ export default {
     HOST: process.env.HOST || "localhost",
     PORT: process.env.PORT || 8080,
     PERSISTENCIA: process.env.PERSISTENCIA || "FILE",
-    FILE_DB: process.env.FILE_DB
+    FILE_DB: process.env.FILE_DB,
+    EMAIL: process.env.EMAIL,
+    EMAIL_PASS: process.env.EMAIL_PASS
 }

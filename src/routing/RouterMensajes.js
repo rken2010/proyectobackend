@@ -8,12 +8,12 @@ class RouterMensajes {
         this.controladorMensajes = new ControladorMensajes()
     }
     inicializar(){
-        router.get("/api/mensajes", this.controladorMensajes.obtenerTodos)
-        router.get("/api/mensajes/:id?", this.controladorMensajes.obtenerPorId)
-        router.post("/api/mensajes", this.controladorMensajes.guardar)
-        router.put("/api/mensajes/:id?", this.controladorMensajes.actualizar)
-        router.delete("/api/mensajes/:id?", this.controladorMensajes.borrarPorId)
-        router.delete("/api/mensajes/:id?", this.controladorMensajes.borrarTodo)
+        router.get("/api/chat", this.controladorMensajes.obtenerTodos)
+        router.get("/api/chat/:id?", this.controladorMensajes.obtenerPorId)
+        router.post("/api/chat", this.controladorMensajes.guardar)
+        router.put("/api/chat/:id?", this.controladorMensajes.actualizar)
+        router.delete("/api/chat/:id?", this.controladorMensajes.borrarPorId)
+        router.delete("/api/chat/:id?", this.controladorMensajes.borrarTodo)
         return router
     }
 }
