@@ -7,17 +7,17 @@ class ControladorMensajes{
     }
     obtenerTodos = async ( req, res) => {
         try{
-            let mensajes = await this.apiMensajes.obtenerMensajes()
+            let mensajes = await this.apiMensajes.obtenerUsuarios()
             res.send( mensajes )
         }
         catch(error){
             logger.error(error)
         }
     }
-    obtenerPorId = async ( req, res) => {
+    obtenerPorUsuario = async ( req, res) => {
         try{
-            let id = req.params.id
-            let mensaje = await this.apiMensajes.obtenermensajePorId(id)
+            let id = req.params.email
+            let mensaje = await this.apiMensajes.obtenermensajePorUsuario(email)
             res.json( mensaje )
 
         }
@@ -28,7 +28,7 @@ class ControladorMensajes{
     guardar = async ( req, res) => {
         try{
             let mensaje = req.body
-            let mensajeGuardado = await this.apiMensajes.guardarMensajes( mensaje )
+            let mensajeGuardado = await this.apiMensajes.guardarUsuario( mensaje )
             res.json( mensajeGuardado )
 
         }

@@ -4,8 +4,8 @@ class MessageMemDAO {
         this.messages = []
     }
 
-    getByID(id) {
-        const elem = this.messages.find(elem => elem.id == id)
+    getByUser(email) {
+        const elem = this.messages.find(elem => elem.email == email)
         return elem || { error: `elemento no encontrado` }
     }
 

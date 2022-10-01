@@ -1,0 +1,20 @@
+# Crear un Producto
+paths:
+  /api/ordenes:
+    post:
+      summary: Crea una nueva orden
+      tags:
+        - Ordenes
+      requesBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schema/NewOrder"
+      responses:
+        "201":
+          description: Se crea la orden.
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schema/NewOrder"

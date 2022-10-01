@@ -9,7 +9,7 @@ class RouterMensajes {
     }
     inicializar(){
         router.get("/api/chat", this.controladorMensajes.obtenerTodos)
-        router.get("/api/chat/:id?", this.controladorMensajes.obtenerPorId)
+        router.get("/api/chat/:usuario?", this.controladorMensajes.obtenerPorUsuario)
         router.post("/api/chat", this.controladorMensajes.guardar)
         router.put("/api/chat/:id?", this.controladorMensajes.actualizar)
         router.delete("/api/chat/:id?", this.controladorMensajes.borrarPorId)

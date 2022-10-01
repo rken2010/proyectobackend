@@ -3,7 +3,7 @@ import mongoose from "mongoose";
 const productoSchema = new mongoose.Schema({
     titulo: { type:String, require:true, max:100 },
     descripcion: { type:String, require:true, max:200 },
-    imagen:{ type:string, require:true},
+    imagen:{ type:String, require:true},
     precio: { type:Number, require:true }
 
 });

@@ -1,4 +1,4 @@
-# NewProduct
+# NewMessage
 components: 
   requestBodies:
     NewMessage:

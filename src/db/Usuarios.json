@@ -1,0 +1,20 @@
+[
+  {
+    "email": "Cristbal_Berros@yahoo.com",
+    "tipo": "usuario",
+    "mensaje": "Dignissimos hic quas suscipit animi perferendis accusamus totam dolorem accusamus. Facere ullam illo magnam id facere expedita perspiciatis sit et. Laudantium commodi minus impedit at et quos. Optio architecto ut sint velit aut harum optio aut. Saepe perferendis quis eveniet amet non laudantium alias provident ratione.",
+    "id": 1,
+    "timestamp": 1664237493791
+  },
+  {
+    "username": "sano2010",
+    "nombre": "juan",
+    "direccion": "siempreviva 4848",
+    "correo": "juan@simpson.com",
+    "password": "haycaramba",
+    "admin": false,
+    "system": false,
+    "id": 2,
+    "timestamp": 1664237578208
+  }
+]

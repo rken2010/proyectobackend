@@ -1,16 +1,21 @@
-import dotenv from "dotenv"
-import path from "path"
+import * as dotenv from 'dotenv'
+import path from "path";
 
-dotenv.config( {
-    path: path.resolve( process.cwd(), process.env.NODE_ENV + ".env")
+const ENV = process.env.NODE_ENV == "prod" ? "src/config/prod.env" : "src/config/dev.env"
+
+dotenv.config({
+    path: path.resolve( ENV ),
+    override: true 
 })
 
 export default {
-    NODE_ENV: process.env.NODE_ENV || "development",
+    NODE_ENV: process.env.NODE_ENV  || "dev",
     HOST: process.env.HOST || "localhost",
     PORT: process.env.PORT || 8080,
-    PERSISTENCIA: process.env.PERSISTENCIA || "FILE",
+    PERSISTENCIA: process.env.PERSISTENCIA || "MEM",
     FILE_DB: process.env.FILE_DB,
-    EMAIL: process.env.EMAIL,
-    EMAIL_PASS: process.env.EMAIL_PASS
+    MONGO_DB: process.env.MONGO_DB,
+    EMAIL: process.env.EMAIL || "garrett.lind@ethereal.email" ,
+    EMAIL_PASS: process.env.EMAIL_PASS || "MysJmfpQYXCe5amfEQ",
 }
+

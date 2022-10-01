@@ -4,25 +4,36 @@ import config from "../config/config.js"
 
 /************ REVISAR SI ACCEDE CON LAS VARIABLES DE ENTORNO *************/
 
-const transporter = nodemailer.createTransport({
+const transporter = process.env.NODE_ENV= "prod" ? nodemailer.createTransport({
    service:"Gmail",
     auth: {
       user: config.EMAIL,
       pass: config.EMAIL_PASS
     },
-});
+}) : nodemailer.createTransport({
+   host: 'smtp.ethereal.email',
+    port: 587,
+    auth: {
+      user: config.EMAIL,
+      pass: config.EMAIL_PASS
+    }
+})
 
-const mailOptions = {
-    from: config.EMAIL,
-    to: "rkenshin.2010@gmail.com",
-    subject: 'Mail de prueba desde Node.js',
-    html: '<h1 style="color: blue;">Contenido de prueba desde <span style="color: green;">Node.js con Nodemailer</span></h1>'
- }
+
 
  
  /*******************************ENVIAR MAIL **********************/
-async function enviarMail() {
- try {
+export default async function enviarMail( destinatario , mensaje) {
+
+
+ const mailOptions = {
+   from: config.EMAIL,
+   to: destinatario,
+   subject: 'Mail de prueba desde Node.js',
+   html: mensaje
+}
+
+  try {
     const info = await transporter.sendMail(mailOptions)
     console.log(info)
  } catch (error) {
@@ -30,4 +41,3 @@ async function enviarMail() {
  }
 }
 
-enviarMail()

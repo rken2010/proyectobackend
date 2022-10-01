@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Informración del Equipo</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+  </head>
+<h1>Información del equipo</h1>
+
+<table class="table">
+<thead></thead><tr><th>DATOS</th><th>VALOR</th></tr> </thead>
+<tr><td>Modo de la APP</td><td>{{data.mode}}</td></tr>
+<tr><td>Argumentos de entrada</td><td>{{data.argsEnt}}</td></tr>
+<tr><td>Path Ejecución</td><td>{{data.path}}</td></tr>
+<tr><td>Puerto</td><td>{{data.port}}</td></tr>
+<tr><td>Nombre Plataforma(SO)</td><td>{{data.opSys}}</td></tr>
+<tr><td>Process ID</td><td>{{data.process_ID}}</td></tr>
+<tr><td>Versión de NODE</td><td>{{data.nodeVersion}}</td></tr>
+<tr><td>Carpeta del Proyecto</td><td>{{data.placeholder}}</td></tr>
+<tr><td>MEM reservada (RSS)</td><td>{{data.memoryUsage.rss}}</td></tr>
+<tr><td>MEM heapTotal</td><td>{{data.memoryUsage.heapTotal}}</td></tr>
+<tr><td>MEM heapUsed</td><td>{{data.memoryUsage.heapUsed}}</td></tr>
+<tr><td>MEM external</td><td>{{data.memoryUsage.external}}</td></tr>
+<tr><td>MEM arrayBuffers</td><td>{{data.memoryUsage.arrayBuffers}}</td></tr>
+<tr><td>Cantidad CPUs</td><td>{{data.numCPUs}}</td></tr>
+</table>
+</html>

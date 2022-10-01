@@ -1,5 +1,5 @@
 import ProductosFactoryDAO from "../models/DAO/Productos/FactoryDAO.js"
-import config from "../config/config.js"
+import config from "../../src/config/config.js"
 
 class ProductosApi{
     constructor(){

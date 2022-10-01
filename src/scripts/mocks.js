@@ -25,6 +25,19 @@ export function mockMensaje() {
     return mensaje
 }
 
+export function mockUsuario(){
+  let usuario = {
+    username:"sano2010",
+    nombre:"juan",
+    direccion:"siempreviva 4848",
+    correo:"juan@simpson.com",
+    password: "haycaramba",
+    admin: false,
+    system: false,
+  }
+  return usuario
+}
+
 export function mockCarrito() {
   let carrito = {
       email: faker.internet.email(),

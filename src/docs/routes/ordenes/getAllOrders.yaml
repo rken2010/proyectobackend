@@ -1,0 +1,15 @@
+paths:
+  /api/ordenes:
+    get:
+      summary: Muestra todas las ordenes disponibles
+      tags:
+        - Ordenes
+      responses:
+        "200":
+          description: Todos las ordenes disponibles
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Order'

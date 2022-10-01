@@ -1,21 +1,21 @@
 paths:
-  /api/productos/{id}:
+  /api/mensajes/{email}:
     get:
-      summary: Devuelve el producto buscado según su ID
+      summary: Devuelve los mensajes del usuario buscado 
       tags:
-        - Productos
+        - Mensajes
       parameters:
-      - name: id
+      - name: email
         in: path
-        description: path parameter takes the product id
+        description: User ID 
         required: true
         type: string
       responses:
         "200":
-          description: The product with given id
+          description: The message with given email
           content:
             application/json:
               schema:
-                $ref: '#/components/schemas/Product'
+                $ref: '#/components/schemas/Messages'
         "404":
-          description: Product not found Error
+          description: User not found Error

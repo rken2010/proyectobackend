@@ -11,14 +11,13 @@ class MessageFileDAO {
             const messages = await fs.readFile(this.file, 'utf-8')
             return JSON.parse(messages)
         } catch (error) {
-          logger.error(`${error} - Fail to read archive`)
-          return []
+          await fs.promises.writeFile(this.file, [])
         }
     }
 
-    async getByID(id) {
+    async getByUser(email) {
         const messages = await this.getAll()
-        let search = messages.find(element => element.id  === parseInt(id))
+        let search = messages.find(element => element.email  === email)
                   if( search != null ){ return search }
                   else{ 
                     logger.error(`Product not found`)

@@ -2,3 +2,4 @@ node_modules
 .env
 src/config/development.env
 src/config/production.env
+src/DB/ecommerce
