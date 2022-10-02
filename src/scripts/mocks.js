@@ -5,11 +5,10 @@ faker.locale = 'es';
 export function mockItem() {
   
     let item = {
-      title: faker.commerce.product(),
-      category: faker.commerce.department(),
-      description:faker.commerce.productDescription(),
-      price: faker.commerce.price(),
-      thumbnail: faker.image.cats(240, 240, true),
+      nombre: faker.commerce.product(),
+      descripcion:faker.commerce.productDescription(),
+      precio: faker.commerce.price(),
+      imagen: faker.image.cats(240, 240, true),
     };
 
   return item;

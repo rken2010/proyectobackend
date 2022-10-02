@@ -1,29 +1,10 @@
 [
   {
-    "title": "Atún",
-    "category": "Juguetería",
-    "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
-    "price": "971.00",
-    "thumbnail": "https://loremflickr.com/240/240/cats?21138",
+    "nombre": "Salchichas",
+    "descripcion": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+    "precio": "793.00",
+    "imagen": "https://loremflickr.com/240/240/cats?90768",
     "id": 1,
-    "timestamp": 1664237374252
-  },
-  {
-    "title": "Sopa",
-    "category": "Hogar",
-    "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
-    "price": "930.00",
-    "thumbnail": "https://loremflickr.com/240/240/cats?21501",
-    "id": 2,
-    "timestamp": 1664237493710
-  },
-  {
-    "title": "Ensalada",
-    "category": "Música",
-    "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
-    "price": "182.00",
-    "thumbnail": "https://loremflickr.com/240/240/cats?9549",
-    "id": 3,
-    "timestamp": 1664237578142
+    "timestamp": 1664754628807
   }
 ]

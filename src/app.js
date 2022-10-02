@@ -1,6 +1,8 @@
 import express from "express" 
 import config from "../src/config/config.js"
-import enviarMail from "./scripts/mailer.js"
+
+import { Server as Socket } from 'socket.io'
+import { Server as HttpServer } from 'http'
 
 
 
@@ -16,13 +18,19 @@ import SwaggerUI from "swagger-ui-express"
 
 import { engine } from 'express-handlebars';
 
+
+
 const app = express()
+const httpServer = new HttpServer(app)
+const io = new Socket(httpServer)
 
 app.use( express.static("public"))
 app.use( express.json())
 
 
 app.use("/api/docs", SwaggerUI.serve, SwaggerUI.setup(swaggerSpecs) )
+
+// TODO --------- agregar Session-------- //
 
 //---------------RUTAS ------------------//
 const routerProductos = new RouterProductos()
@@ -41,6 +49,14 @@ app.engine('handlebars', engine());
 app.set('view engine', 'handlebars');
 app.set('views', './src/views');
 
+//------------SOCKET---------------------//
+
+//!-----VER COMO USAR APP.LISTEN Y HTTP----//
+io.on('connection', async socket => {
+  console.log('Nuevo cliente conectado!');
+  addProductosHandlers(socket, io.sockets)
+  addMensajesHandlers(socket, io.sockets)
+});
 
 //-----------SERVIDOR ESCUCHANDO---------//
 

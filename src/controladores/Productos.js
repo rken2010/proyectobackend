@@ -8,7 +8,7 @@ class ControladorProductos{
     obtenerTodos = async ( req, res) => {
         try{
             let productos = await this.apiProductos.obtenerProductos()
-            res.send( productos )
+            res.render( "productosVista", { productos })
         }
         catch(error){
             logger.error(error)

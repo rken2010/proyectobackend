@@ -1,39 +1,6 @@
 import { createLogger, transports as _transports, format } from 'winston';
 import util from "util"
 
-/*
-function buildProdLogger() {
-  const prodLogger = createLogger({
-    transports: [
-      new _transports.Console({ level: 'info', colorize: true }),
-      new _transports.File({ filename: 'warn.log', level: 'warning' }),
-      new _transports.File({ filename: 'error.log', level: 'error' }),
-      
-    ],
-  });
-  return prodLogger;
-}
-
-function buildDevLogger() {
-  const devLogger = createLogger({
-    transports: [
-      new _transports.Console({ level: 'info' }),
-      new _transports.File({ filename: 'warn.log', level: 'warn' }),
-      new _transports.File({ filename: 'error.log', level: 'error' }),
-    ],
-  });
-  return devLogger;
-}
-
-export let logger = null;
-
-if (process.env.NODE_ENV === 'production') {
-  logger = buildProdLogger();
-} else {
-  logger = buildDevLogger();
-}
-*/
-
 class Logger {
   constructor() { 
     this.winstonLogger = createLogger({
@@ -50,7 +17,7 @@ class Logger {
     const TRANSPORTS = []
     TRANSPORTS.push(new _transports.Console({
       format           : format.printf(this._consoleFormat()),
-      level            : 'info', // Muestra logs de nivel 3 o menor
+      level            : 'info', 
       handleExceptions : false,
       colorize         : true,
       json             : false,
@@ -63,7 +30,7 @@ class Logger {
         colorize         : true,
         json             : true,
         filename         : `logs/${level}.log`,
-        maxsize          : 5242880, // 5242880 Bytes = 5 MB
+        maxsize          : 5242880, 
         maxFiles         : 5,
       }))
     })
@@ -71,10 +38,10 @@ class Logger {
   }
   _consoleFormat () {
     const COLORS = {
-      error : `\x1b[91m`, // LIGHT_RED
-      warn  : `\x1b[93m`, // LIGHT_YELLOW
-      info  : `\x1b[96m`, // LIGHT_CYAN
-      reset : `\x1b[0m`,  // Restaura al color por defecto
+      error : `\x1b[91m`, 
+      warn  : `\x1b[93m`, 
+      info  : `\x1b[96m`, 
+      reset : `\x1b[0m`,  
     }
     return (info) => {
       const START     = COLORS[info.level]

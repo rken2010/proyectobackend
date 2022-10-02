@@ -16,5 +16,27 @@
     "system": false,
     "id": 2,
     "timestamp": 1664237578208
+  },
+  {
+    "username": "sano2010",
+    "nombre": "juan",
+    "direccion": "siempreviva 4848",
+    "correo": "juan@simpson.com",
+    "password": "haycaramba",
+    "admin": false,
+    "system": false,
+    "id": 3,
+    "timestamp": 1664750385810
+  },
+  {
+    "username": "sano2010",
+    "nombre": "juan",
+    "direccion": "siempreviva 4848",
+    "correo": "juan@simpson.com",
+    "password": "haycaramba",
+    "admin": false,
+    "system": false,
+    "id": 4,
+    "timestamp": 1664754628867
   }
 ]
