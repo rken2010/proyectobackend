@@ -1,17 +1,1 @@
-{"timestamp":"Sun Oct 02 2022 20:42:49 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET / no implementada","data":null}
-{"timestamp":"Sun Oct 02 2022 20:42:50 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /favicon.ico no implementada","data":null}
-{"timestamp":"Sun Oct 02 2022 20:42:56 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /productos no implementada","data":null}
-{"timestamp":"Sun Oct 02 2022 20:42:56 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /favicon.ico no implementada","data":null}
-{"timestamp":"Sun Oct 02 2022 20:43:10 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /favicon.ico no implementada","data":null}
-{"timestamp":"Sun Oct 02 2022 20:47:20 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /css/style.css no implementada","data":null}
-{"timestamp":"Sun Oct 02 2022 20:47:20 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /favicon.ico no implementada","data":null}
-{"timestamp":"Sun Oct 02 2022 20:49:57 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /css/style.css no implementada","data":null}
-{"timestamp":"Sun Oct 02 2022 20:49:57 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /favicon.ico no implementada","data":null}
-{"timestamp":"Sun Oct 02 2022 20:50:04 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET / no implementada","data":null}
-{"timestamp":"Sun Oct 02 2022 20:50:05 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /favicon.ico no implementada","data":null}
-{"timestamp":"Sun Oct 02 2022 20:50:07 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /favicon.ico no implementada","data":null}
-{"timestamp":"Sun Oct 02 2022 20:50:41 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /css/style.css no implementada","data":null}
-{"timestamp":"Sun Oct 02 2022 20:50:41 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /api/alt=%22not no implementada","data":null}
-{"timestamp":"Sun Oct 02 2022 20:50:41 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /favicon.ico no implementada","data":null}
-{"timestamp":"Sun Oct 02 2022 20:54:48 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /css/style.css no implementada","data":null}
-{"timestamp":"Sun Oct 02 2022 20:54:49 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /favicon.ico no implementada","data":null}
+
