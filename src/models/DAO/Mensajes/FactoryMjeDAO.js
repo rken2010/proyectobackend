@@ -7,7 +7,7 @@ export class MensajesFactoryDAO {
     static get(tipoPersistencia){
         switch(tipoPersistencia){
           case "MEM": return new MessageMemDAO()
-          case "FILE": return new MessageFileDAO( "./src/db/Mensajes.json")
+          case "FILE": return new MessageFileDAO( "./src/DB/Mensajes.json")
           case "DBMONGO": return new MessageDbDAO( "ecommerce", "mensajes")
           default: return new MessageMemDAO()
         }

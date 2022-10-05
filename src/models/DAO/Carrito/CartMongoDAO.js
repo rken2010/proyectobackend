@@ -1,26 +1,26 @@
-import mensajes from "../../schema/MensajeSchema.js"
+import carritos from "../../schema/Carritoschema.js"
 import logger from "../../../scripts/logger.js";
 import { connectToDB, disconnectToDB,  } from "../connectDB.js";
 
-class ProductDbDAO {
+class CartDbDAO {
     constructor(nameCollection) {
         this.nameCollection = nameCollection;
-        this.model = mensajes;
+        this.model = carritos;
       }
     static{
         connectToDB()
     }
-    async getByUser(email) {
-        const mensajes = await this.model.findOne(email);
+    async getById(id) {
+        const carrito = await this.model.findById(id);
         disconnectToDB()
-        return mensajes;
+        return carrito;
     }
 
     async getAll() {
         try {
-            const mensajes = await this.model.find()
+            const carritos = await this.model.find()
             disconnectToDB()
-            return mensajes
+            return carritos
             
         } catch (error) {
             logger.error(`${error} - Fail to read database`)
@@ -28,10 +28,10 @@ class ProductDbDAO {
     }
 
     async save(elem) {
-      const nuevoMensaje = new this.model(elem);
-      await nuevoMensaje.save();
+      const nuevoCarrito = new this.model(elem);
+      await nuevoCarrito.save();
       disconnectToDB()
-      return nuevoMensaje 
+      return nuevoCarrito 
     }
 
     async update(id, elem) {
@@ -63,4 +63,4 @@ class ProductDbDAO {
     }
 }
 
-export default ProductDbDAO
+export default CartDbDAO

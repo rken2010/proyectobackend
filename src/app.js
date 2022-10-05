@@ -14,6 +14,7 @@ import RouterProductos from "../src/routing/RouterProductos.js"
 import RouterMensajes from "./routing/RouterMensajes.js"
 import RouterInfo from "./routing/RouterInfo.js"
 import RouterUsuarios from "./routing/RouterNuevoUsuario.js"
+import RouterCarrito from "./routing/RouterCarrito.js"
 import RouterLogin from "./routing/RouterAuth.js"
 
 import { swaggerSpecs } from "./docs/swaggerSpecs.js"
@@ -22,7 +23,11 @@ import SwaggerUI from "swagger-ui-express"
 import { engine } from 'express-handlebars';
  
 import session from "express-session"
+import sfs from 'session-file-store'
+const FileStore = sfs(session)
+
 import passport from "passport"
+
 
 
 
@@ -40,7 +45,18 @@ app.use("/api/docs", SwaggerUI.serve, SwaggerUI.setup(swaggerSpecs) )
 
 app.use(
   session({
-      secret: 'shhhhhhhhhhhhhh',
+    store: config.NODE_ENV == "prod"
+      ? MongoStore.create({
+      mongoUrl: config.MONGO_DB,
+      mongoOptions: {useNewUrlParser: true, useUnifiedTopology: true },
+      ttl: 600,
+      }) :
+      new FileStore({ 
+        path: './src/sessions', 
+        ttl: 60
+      }),
+    
+      secret: 'hayCaramba',
       resave: false,
       saveUninitialized: false,
       cookie: {
@@ -60,11 +76,13 @@ const routerMensajes = new RouterMensajes()
 const routerUsuarios = new RouterUsuarios()
 const routerInfo = new RouterInfo()
 const routerLogin = new RouterLogin()
+const routerCarrito = new RouterCarrito()
 
 
 app.use("/", routerProductos.inicializar())
 app.use("/", routerMensajes.inicializar())
 app.use("/", routerInfo.inicializar())
+app.use("/", routerCarrito.inicializar())
 app.use("/", routerUsuarios.inicializar())
 app.use("/", routerLogin.inicializar())
 //---------------------------------------//

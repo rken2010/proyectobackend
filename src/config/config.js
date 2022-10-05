@@ -1,7 +1,7 @@
 import * as dotenv from 'dotenv'
 import path from "path";
 
-const ENV = process.env.NODE_ENV == "prod" ? "src/config/prod.env" : "src/config/dev.env"
+const ENV = process.env.NODE_ENV == "production" ? "src/config/prod.env" : "src/config/dev.env"
 
 dotenv.config({
     path: path.resolve( ENV ),
@@ -9,7 +9,7 @@ dotenv.config({
 })
 
 export default {
-    NODE_ENV: process.env.NODE_ENV  || "dev",
+    NODE_ENV: process.env.NODE_ENV  ,
     HOST: process.env.HOST || "localhost",
     PORT: process.env.PORT || 8080,
     PERSISTENCIA: process.env.PERSISTENCIA || "MEM",
