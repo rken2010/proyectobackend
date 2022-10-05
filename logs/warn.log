@@ -1,1 +1,18 @@
 
+{"timestamp":"Wed Oct 05 2022 11:49:00 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /socket.io/?EIO=4&transport=polling&t=OEedn0E no implementada","data":null}
+{"timestamp":"Wed Oct 05 2022 11:49:06 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /socket.io/?EIO=4&transport=polling&t=OEedoUD no implementada","data":null}
+{"timestamp":"Wed Oct 05 2022 11:49:12 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /socket.io/?EIO=4&transport=polling&t=OEedpxr no implementada","data":null}
+{"timestamp":"Wed Oct 05 2022 11:49:18 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /socket.io/?EIO=4&transport=polling&t=OEedrPf no implementada","data":null}
+{"timestamp":"Wed Oct 05 2022 11:49:24 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /socket.io/?EIO=4&transport=polling&t=OEedstJ no implementada","data":null}
+{"timestamp":"Wed Oct 05 2022 11:49:30 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /socket.io/?EIO=4&transport=polling&t=OEeduL8 no implementada","data":null}
+{"timestamp":"Wed Oct 05 2022 11:49:36 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /socket.io/?EIO=4&transport=polling&t=OEedvoy no implementada","data":null}
+{"timestamp":"Wed Oct 05 2022 11:49:42 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /socket.io/?EIO=4&transport=polling&t=OEedxGg no implementada","data":null}
+{"timestamp":"Wed Oct 05 2022 11:49:48 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /socket.io/?EIO=4&transport=polling&t=OEedykR no implementada","data":null}
+{"timestamp":"Wed Oct 05 2022 11:49:54 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /socket.io/?EIO=4&transport=polling&t=OEed-Bz no implementada","data":null}
+{"timestamp":"Wed Oct 05 2022 11:55:16 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /socket.io/?EIO=4&transport=polling&t=OEefCaB no implementada","data":null}
+{"timestamp":"Wed Oct 05 2022 11:55:22 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /socket.io/?EIO=4&transport=polling&t=OEefEH4 no implementada","data":null}
+{"timestamp":"Wed Oct 05 2022 11:55:27 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /socket.io/?EIO=4&transport=polling&t=OEefFVj no implementada","data":null}
+{"timestamp":"Wed Oct 05 2022 11:55:32 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /css/style.css no implementada","data":null}
+{"timestamp":"Wed Oct 05 2022 11:55:57 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /css/style.css no implementada","data":null}
+{"timestamp":"Wed Oct 05 2022 11:56:30 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta POST /login no implementada","data":null}
+{"timestamp":"Wed Oct 05 2022 11:56:50 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /register no implementada","data":null}
