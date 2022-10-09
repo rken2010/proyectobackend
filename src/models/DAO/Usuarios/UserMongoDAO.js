@@ -13,6 +13,11 @@ class UserDbDAO {
         mongoose.disconnect()
         return usuario;
     }
+    async getByEmail( email ) {
+        const usuario = await this.model.findOne({email:email});
+        mongoose.disconnect()
+        return usuario;
+    }
 
     async getAll() {
         try {

@@ -9,6 +9,11 @@ class UsuarioMemDAO {
         return elem || { error: `elemento no encontrado` }
     }
 
+    getByEmail(email) {
+        const elem = this.usuarios.find(elem => elem.email == email)
+        return elem || { error: `elemento no encontrado` }
+    }
+
     getAll() {
         return [...this.usuarios]
     }

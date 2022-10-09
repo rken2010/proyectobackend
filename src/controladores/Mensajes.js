@@ -7,8 +7,8 @@ class ControladorMensajes{
     }
     obtenerTodos = async ( req, res) => {
         try{
-            let mensajes = await this.apiMensajes.obtenerUsuarios()
-            res.send( mensajes )
+            let mensajes = await this.apiMensajes.obtenerMensajes()
+            res.render( "chat", {mensajes} )
         }
         catch(error){
             logger.error(error)
@@ -28,7 +28,7 @@ class ControladorMensajes{
     guardar = async ( req, res) => {
         try{
             let mensaje = req.body
-            let mensajeGuardado = await this.apiMensajes.guardarUsuario( mensaje )
+            let mensajeGuardado = await this.apiMensajes.guardarMensaje( mensaje )
             res.json( mensajeGuardado )
 
         }

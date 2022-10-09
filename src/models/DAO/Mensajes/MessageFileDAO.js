@@ -20,8 +20,7 @@ class MessageFileDAO {
         let search = messages.find(element => element.email  === email)
                   if( search != null ){ return search }
                   else{ 
-                    logger.error(`Product not found`)
-                    return {error: "No se encontro el producto"} 
+                    logger.error(`not found`)
                   }
     }
 

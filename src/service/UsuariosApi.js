@@ -7,6 +7,7 @@ class UsuariosApi{
     }
     async obtenerUsuarios() { return await this.usuariosDAO.getAll()}
     async obtenerUsuarioPorId(id) { return await this.usuariosDAO.getByID(id)}
+    async obtenerUsuarioPorUsername(username) { return await this.usuariosDAO.getByUsername(username)}
     async guardarUsuario( usuario ) { return await this.usuariosDAO.save( usuario )}
     async actualizarUsuario(id, usuario) { return await this.usuariosDAO.update(id, usuario)}
     async borrarUsuarioPorId(id) { return await this.usuariosDAO.deleteById(id)}

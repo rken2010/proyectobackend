@@ -7,7 +7,7 @@ export class UsuariosFactoryDAO {
     static get(){
         switch(config.PERSISTENCIA){
           case "MEM": return new UserMemDAO()
-          case "FILE": return new UserFileDAO( "./src/db/Usuarios.json")
+          case "FILE": return new UserFileDAO( "./src/DB/Usuarios.json")
           case "DBMONGO": return new UserDbDAO( "ecommerce", "usuarios")
           default: return new UserMemDAO()
         }

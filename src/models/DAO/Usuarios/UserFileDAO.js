@@ -8,8 +8,8 @@ class ProductFileDAO {
 
     async getAll() {
         try {
-            const items = await fs.readFile(this.file, 'utf-8')
-            return JSON.parse(items)
+            const user = await fs.readFile(this.file, 'utf-8')
+            return JSON.parse(user)
         } catch (error) {
           logger.error(`${error} - Fail to read archive`)
           return []
@@ -17,31 +17,40 @@ class ProductFileDAO {
     }
 
     async getByID(id) {
-        const items = await this.getAll()
-        let search = items.find(element => element.id  === parseInt(id))
+        const user = await this.getAll()
+        let search = user.find(element => element.id  === parseInt(id))
                   if( search != null ){ return search }
                   else{ 
                     logger.error(`Product not found`)
                     return {error: "No se encontro el producto"} 
                   }
     }
+    async getByUsername(username) {
+        const users = await this.getAll()
+        let search = username.find(users => users.username  == username)
+                  if( search != null ){ return search }
+                  else{ 
+                    logger.error(`User not found`)
+                    return {error: "No se encontro el usuario"} 
+                  }
+    }
 
     async save(obj) {
-        const items = await this.getAll()
+        const user = await this.getAll()
 
         let newId
         let timestamp = Date.now()
-        if (items.length == 0) {
+        if (user.length == 0) {
             newId = 1
         } else {
-            newId = items[items.length - 1].id + 1
+            newId = user[user.length - 1].id + 1
         }
 
         const newObj = { ...obj, id: newId, timestamp:timestamp }
-        items.push(newObj)
+        user.push(newObj)
 
         try {
-            await fs.writeFile(this.file, JSON.stringify(items, null, 2))
+            await fs.writeFile(this.file, JSON.stringify(user, null, 2))
             return newId
         } catch (error) {
           logger.error(`${error} - Fail to save archive`)
@@ -49,14 +58,14 @@ class ProductFileDAO {
     }
 
     async update(elem, id) {
-        const items = await this.getAll()
-        const index = items.findIndex(o => o.id == id)
+        const user = await this.getAll()
+        const index = user.findIndex(o => o.id == id)
         if (index == -1) {
           logger.error(` Fail to find product`)
         } else {
-            items[index] = elem
+            user[index] = elem
             try {
-                await fs.writeFile(this.file, JSON.stringify(items, null, 2))
+                await fs.writeFile(this.file, JSON.stringify(user, null, 2))
             } catch (error) {
               logger.error(`${error} - Fail to update product`)
             }
@@ -64,15 +73,15 @@ class ProductFileDAO {
     }
 
     async deleteById(id) {
-        const items = await this.getAll()
-        const index = items.findIndex(o => o.id == id)
+        const user = await this.getAll()
+        const index = user.findIndex(o => o.id == id)
         if (index == -1) {
           logger.error(` Fail to find product`)
         }
 
-        items.splice(index, 1)
+        user.splice(index, 1)
         try {
-            await fs.writeFile(this.file, JSON.stringify(items, null, 2))
+            await fs.writeFile(this.file, JSON.stringify(user, null, 2))
             logger.info("sucess to delete product")
         } catch (error) {
           logger.error(`${error} - Fail to delete product`)

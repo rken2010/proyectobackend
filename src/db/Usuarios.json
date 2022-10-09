@@ -3,7 +3,7 @@
     "username": "sano2010",
     "nombre": "juan",
     "direccion": "siempreviva 4848",
-    "correo": "juan@simpson.com",
+    "email": "juan@simpson.com",
     "password": "haycaramba",
     "admin": false,
     "system": false,
@@ -97,5 +97,27 @@
     "system": false,
     "id": 10,
     "timestamp": 1665007551842
+  },
+  {
+    "username": "Anita.Tirado54",
+    "nombre": "Pilar",
+    "direccion": "Rincón Gabriel 82",
+    "email": "Juan_Bustos@gmail.com",
+    "password": "66zE9pRz_8_wzNX",
+    "admin": false,
+    "system": false,
+    "id": 11,
+    "timestamp": 1665152251816
+  },
+  {
+    "username": "Diego46",
+    "nombre": "Ana María",
+    "direccion": "Lado Rebeca Arenas 6",
+    "email": "Carla71@hotmail.com",
+    "password": "sJAA1W_q5kjxmR0",
+    "admin": false,
+    "system": false,
+    "id": 12,
+    "timestamp": 1665152336914
   }
 ]

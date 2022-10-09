@@ -7,8 +7,8 @@ class ControladorUsuarios{
     }
     obtenerTodos = async ( req, res) => {
         try{
-            let mensajes = await this.apiUsuarios.obtenerUsuarios()
-            res.send( mensajes )
+            let usuarios = await this.apiUsuarios.obtenerUsuarios()
+            res.send( usuarios )
         }
         catch(error){
             logger.error(error)
@@ -25,6 +25,18 @@ class ControladorUsuarios{
             logger.error(error)
         }
     }
+    obtenerPorUsername(username) { async ( req, res) => {
+        try{
+           
+            let usuario = await this.apiUsuarios.obtenerUsuarioPorUsername(username)
+            res.send( usuario )
+
+        }
+        catch(error){
+            logger.error(error)
+        }
+    }}
+    
     guardar = async ( req, res) => {
         try{
             let usuario = req.body

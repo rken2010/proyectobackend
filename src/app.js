@@ -2,11 +2,9 @@ import express from "express"
 import config from "../src/config/config.js"
 
 //** -------------------SOCKET---------------- //
-/*
+
 import { Server as Socket } from 'socket.io'
 import { Server as HttpServer } from 'http'
-*/
-
 
 import logger from "./scripts/logger.js"
 
@@ -26,17 +24,21 @@ import session from "express-session"
 import sfs from 'session-file-store'
 const FileStore = sfs(session)
 
+import morgan from "morgan"
+
 import passport from "passport"
+import "./auth/local.js"
 
-
+import addMensajesHandlers from './routing/ws/mensajes.js'
 
 
 const app = express()
-//const httpServer = new HttpServer(app)
-//const io = new Socket(httpServer)
+const httpServer = new HttpServer(app)
+const io = new Socket(httpServer)
 
 app.use( express.static("public"))
 app.use( express.json())
+app.use(express.urlencoded({extended:true}))
 
 
 app.use("/api/docs", SwaggerUI.serve, SwaggerUI.setup(swaggerSpecs) )
@@ -65,22 +67,35 @@ app.use(
   })
 )
 
+// TODO ----------- PASSPORT ------------------//
+
+
 //---------------------------------------------------//
 // MIDDLEWARES DE PASSPORT
 app.use(passport.initialize())
 app.use(passport.session())
 
+//------------SOCKET---------------------//
+
+io.on('connection', async socket => {
+   console.log('Nuevo cliente conectado!');
+   addMensajesHandlers(socket, io.sockets)
+});
+
+
+
 //---------------RUTAS ------------------//
 const routerProductos = new RouterProductos()
-const routerMensajes = new RouterMensajes()
+//const routerMensajes = new RouterMensajes()
 const routerUsuarios = new RouterUsuarios()
 const routerInfo = new RouterInfo()
 const routerLogin = new RouterLogin()
 const routerCarrito = new RouterCarrito()
 
+//app.use(morgan("dev"))
 
 app.use("/", routerProductos.inicializar())
-app.use("/", routerMensajes.inicializar())
+//app.use("/", routerMensajes.inicializar())
 app.use("/", routerInfo.inicializar())
 app.use("/", routerCarrito.inicializar())
 app.use("/", routerUsuarios.inicializar())
@@ -91,16 +106,7 @@ app.engine('handlebars', engine());
 app.set('view engine', 'handlebars');
 app.set('views', './src/views');
 
-//------------SOCKET---------------------//
 
-//!-----VER COMO USAR APP.LISTEN Y HTTP----//
-/*
-io.on('connection', async socket => {
-  console.log('Nuevo cliente conectado!');
-  addProductosHandlers(socket, io.sockets)
-  addMensajesHandlers(socket, io.sockets)
-});
-*/
 //-----------SERVIDOR ESCUCHANDO---------//
 
 app.all('*', (req, res) => {
@@ -109,8 +115,10 @@ app.all('*', (req, res) => {
     res.send(`Ruta ${method} ${url} no implementada`)
   })
   
-  app.listen(config.PORT, (error)  => {
+  httpServer.listen(config.PORT, (error)  => {
     if(error){ logger.error(`Error Server - ${error}`)}
     logger.info(`App listening at http://localhost:${config.PORT} - PID ${process.pid} - MODO ${config.NODE_ENV} - PERSISTENCIA: ${config.PERSISTENCIA}`);
   });
   
+
+

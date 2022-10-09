@@ -15,13 +15,10 @@ export function mockItem() {
 }
 
 export function mockMensaje() {
-    let mensaje = {
-        email: faker.internet.email(),
-        tipo: "usuario",
-        fyh: Date.now,
-        mensaje: faker.lorem.paragraph()
-    }
-    return mensaje
+    let mensaje =  faker.lorem.paragraph()
+    let author = mockUsuario()
+    let chat = { author, mensaje}
+    return chat
 }
 
 export function mockUsuario(){
