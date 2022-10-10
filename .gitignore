@@ -1,5 +1,5 @@
 node_modules
 .env
-src/config/development.env
-src/config/production.env
+src/config/dev.env
+src/config/prod.env
 src/DB/ecommerce

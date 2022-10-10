@@ -4,11 +4,11 @@ import ControladorMensajes from '../../controladores/Mensajes.js';
 const controladorMje = new ControladorMensajes()
 
 export default async function configurarSocket(socket, sockets) {
-    socket.emit('messages', await controladorMje.obtenerTodos);
+    socket.emit('mensajes', await controladorMje.obtenerTodos);
+    console.log( controladorMje.obtenerTodoshero);
 
-    socket.on('new-message', async mensaje => {
-        mensaje.fyh = new Date().toLocaleString()
+    socket.on('nuevoMensaje', async mensaje => {
         controladorMje.guardar(mensaje)
-        sockets.emit('messages', await controladorMje.obtenerTodos);
+        sockets.emit('mensajes', await controladorMje.obtenerTodos);
     })
 }

@@ -1,25 +1,16 @@
 <script src="/socket.io/socket.io.js"></script>
 <div class="jumbotron">
-            <h1>Centro de Mensajes (Compresión: <span id="compresion-info"></span>%)</h1>
+            <h1>Centro de Mensajes</h1>
             <br>
-            <input type="text" id="username" class="form-control w-50 my-2 mr-2" placeholder="Ingresá tu email">
+            <input type="text" id="username" class="form-control w-50 my-2 mr-2" placeholder="Ingresá tu usuario">
             <input type="text" id="firstname" class="form-control w-50 my-2 mr-2" placeholder="Ingresá tu nombre">
             <input type="text" id="tipo" class="form-control w-50 my-2 mr-2" placeholder="System o Usuario">
             <hr>
 
             <hr>
 
-            <div id="chat">
-
-                 {{#each message}}
-          
-                <div>
-                <strong>${this.author}</strong>
-                <em> ${this.mensaje}
-                </div>
-             {{/each}}
-            </div>
-            <form onsubmit="return addMessage(this)" class="form-inline" autocomplete="off">
+            <div id="chat"></div>
+            <form  id="formPublicarMensaje" class="form-inline" autocomplete="off">
                 <div class="form-group">
                     <input id="inputMensaje" type="text" class="form-control my-2 mr-2"
                         placeholder="Ingresá un mensaje...">
@@ -28,4 +19,3 @@
             </form>
         </div>
          <script src="/js/main.js"></script>
-     

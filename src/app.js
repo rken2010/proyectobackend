@@ -29,7 +29,7 @@ import morgan from "morgan"
 import passport from "passport"
 import "./auth/local.js"
 
-import addMensajesHandlers from './routing/ws/mensajes.js'
+import configurarSocket from './routing/ws/mensajes.js'
 
 
 const app = express()
@@ -79,14 +79,14 @@ app.use(passport.session())
 
 io.on('connection', async socket => {
    console.log('Nuevo cliente conectado!');
-   addMensajesHandlers(socket, io.sockets)
+   configurarSocket(socket, io.sockets)
 });
 
 
 
 //---------------RUTAS ------------------//
 const routerProductos = new RouterProductos()
-//const routerMensajes = new RouterMensajes()
+const routerMensajes = new RouterMensajes()
 const routerUsuarios = new RouterUsuarios()
 const routerInfo = new RouterInfo()
 const routerLogin = new RouterLogin()
@@ -95,7 +95,7 @@ const routerCarrito = new RouterCarrito()
 //app.use(morgan("dev"))
 
 app.use("/", routerProductos.inicializar())
-//app.use("/", routerMensajes.inicializar())
+app.use("/", routerMensajes.inicializar())
 app.use("/", routerInfo.inicializar())
 app.use("/", routerCarrito.inicializar())
 app.use("/", routerUsuarios.inicializar())

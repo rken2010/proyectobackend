@@ -1,52 +1,42 @@
 
 const socket = io.connect();
 
-socket.on("messages", function(data){ render(data)})
+const inputUsername = document.getElementById('username')
+const inputMensaje = document.getElementById('inputMensaje')
+const btnEnviar = document.getElementById('btnEnviar')
 
-function render(data) {
-    const html = data.map((elem, index) => {
-        return (
-            `<div>
-                <strong>${elem.author.nick}</strong>
-                <em> ${elem.mje}
-            </div>
-            `
-        ).join("")
-    })
-    document.getElementById("chat").innerHTML = html
-}
+const formPublicarMensaje = document.getElementById('formPublicarMensaje')
+formPublicarMensaje.addEventListener('submit', e => {
+    e.preventDefault()
 
-function addMessage (e) {
     const mensaje = {
-        author: document.getElementById("username").value,
-        mensaje: document.getElementById("inputMensaje").value
+        author: {
+            username: inputUsername.value,
+            nombre: document.getElementById('firstname').value,
+        },
+        text: inputMensaje.value
     }
-    socket.emit("new-message", mensaje);
-    return false;
+    console.log(mensaje);
+    socket.emit('nuevoMensaje', mensaje);
+    formPublicarMensaje.reset()
+    inputMensaje.focus()
+})
+
+
+socket.on("mensajes", mensajes => {
+    const html = makeHtmlList(mensajes)
+    document.getElementById('chat').innerHTML = html;
+})
+
+function makeHtmlList(mensajes) {
+    return mensajes.map(mensaje => {
+        return (`
+        <div>
+            <b style="color:blue;">${mensaje.author.email}</b>
+            [<span style="color:brown;">${mensaje.fyh}</span>] :
+            <i style="color:green;">${mensaje.text}</i>
+            <img width="50" src="${mensaje.author.avatar}" alt=" ">
+        </div>
+    `)
+    }).join(" ");
 }
-/*
-const socket = io.connect();
-
-function addMessage(e) {
-    const message = {
-        author: document.getElementById("username").value,
-        message: document.getElementById("text").value,
-    }
-
-    socket.emit("new-message", message);
-    return false
-}
-
-function render(data) {
-    const html = data.map((elem, index) => {
-        return(`<div>
-        <strong>${elem.author}</strong>
-        <em>${elem.message}</em>
-        </div>`)
-    }).join(" ")
-
-    document.getElementById("messages").innerHTML = html
-}
-
-socket.on("messages", function(data) {render(data)})
-*/
