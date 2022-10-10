@@ -4,7 +4,7 @@ const usuarioSchema = new mongoose.Schema({
     username: { type: String, require:true},
     nombre: { type:String, require:true, max:100 },
     direccion: { type:String, require:true },
-    correo:{ type:String, require:true},
+    email:{ type:String, require:true},
     password: { type: String, require:true },
     admin: { type:Boolean, require:true },
     system: { type:Boolean, require:true}

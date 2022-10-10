@@ -1796,3 +1796,669 @@
 {"timestamp":"Sun Oct 09 2022 19:00:17 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
 {"timestamp":"Sun Oct 09 2022 19:00:17 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
 {"timestamp":"Sun Oct 09 2022 19:00:27 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 8408 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 11:51:36 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 11:51:36 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 11:51:36 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 11:51:36 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 11:51:47 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 5540 - MODO development - PERSISTENCIA: MEM","data":null}
+{"timestamp":"Mon Oct 10 2022 11:52:41 GMT-0300 (hora estándar de Argentina)","level":"error","message":{},"data":null}
+{"timestamp":"Mon Oct 10 2022 11:53:56 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 11:53:56 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 11:53:56 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 11:53:56 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 11:54:05 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 8156 - MODO development - PERSISTENCIA: MEM","data":null}
+{"timestamp":"Mon Oct 10 2022 11:54:08 GMT-0300 (hora estándar de Argentina)","level":"error","message":{},"data":null}
+{"timestamp":"Mon Oct 10 2022 11:55:28 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 11:55:28 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 11:55:28 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 11:55:28 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 11:55:40 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 3564 - MODO development - PERSISTENCIA: MEM","data":null}
+{"timestamp":"Mon Oct 10 2022 11:55:58 GMT-0300 (hora estándar de Argentina)","level":"error","message":{},"data":null}
+{"timestamp":"Mon Oct 10 2022 11:57:33 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 11:57:33 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 11:57:33 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 11:57:33 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 11:57:43 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 10220 - MODO development - PERSISTENCIA: MEM","data":null}
+{"timestamp":"Mon Oct 10 2022 11:57:59 GMT-0300 (hora estándar de Argentina)","level":"error","message":{},"data":null}
+{"timestamp":"Mon Oct 10 2022 12:07:30 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 12:07:31 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 12:07:31 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 12:07:31 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 12:07:46 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 8072 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 12:08:14 GMT-0300 (hora estándar de Argentina)","level":"error","message":"ReferenceError: usuario is not defined - Fail to read archive","data":null}
+{"timestamp":"Mon Oct 10 2022 12:10:16 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 12:10:16 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 12:10:16 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 12:10:16 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 12:10:25 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 2640 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 12:10:58 GMT-0300 (hora estándar de Argentina)","level":"error","message":"ReferenceError: usuario is not defined - Fail to read archive","data":null}
+{"timestamp":"Mon Oct 10 2022 12:12:18 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 12:12:18 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 12:12:18 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 12:12:18 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 12:12:28 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 8704 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 12:13:41 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 12:13:41 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 12:13:41 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 12:13:41 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 12:13:54 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 8188 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 12:16:26 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /api/usuarios/2 no implementada","data":null}
+{"timestamp":"Mon Oct 10 2022 12:16:41 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /api/usuarios/2?id=2 no implementada","data":null}
+{"timestamp":"Mon Oct 10 2022 12:16:47 GMT-0300 (hora estándar de Argentina)","level":"error","message":{},"data":null}
+{"timestamp":"Mon Oct 10 2022 12:18:14 GMT-0300 (hora estándar de Argentina)","level":"error","message":{},"data":null}
+{"timestamp":"Mon Oct 10 2022 12:18:57 GMT-0300 (hora estándar de Argentina)","level":"error","message":{},"data":null}
+{"timestamp":"Mon Oct 10 2022 12:20:33 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 12:20:33 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 12:20:33 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 12:20:33 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 12:20:42 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 2408 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 12:20:44 GMT-0300 (hora estándar de Argentina)","level":"error","message":{},"data":null}
+{"timestamp":"Mon Oct 10 2022 12:21:19 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 12:21:19 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 12:21:19 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 12:21:19 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 12:21:30 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 8000 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 12:21:32 GMT-0300 (hora estándar de Argentina)","level":"error","message":"Product not found","data":null}
+{"timestamp":"Mon Oct 10 2022 12:22:43 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 12:22:43 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 12:22:43 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 12:22:43 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 12:22:53 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 1000 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 14:25:29 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:25:30 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:25:30 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:25:30 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:25:46 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 5472 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 14:25:58 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 14:27:03 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 14:27:26 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 14:29:06 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:29:06 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:29:06 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:29:06 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:29:16 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 2228 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 14:29:19 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 14:29:51 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:29:51 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:29:51 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:29:51 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:29:58 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 6056 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 14:29:59 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 14:30:22 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:30:22 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:30:22 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:30:22 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:30:33 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 8920 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 14:30:40 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 14:32:13 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta POST /api/usuario/sano2010?id=2 no implementada","data":null}
+{"timestamp":"Mon Oct 10 2022 14:32:32 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta POST /api/usuario/sano2010 no implementada","data":null}
+{"timestamp":"Mon Oct 10 2022 14:32:39 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 14:33:39 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:33:39 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:33:39 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:33:39 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:33:46 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 5424 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 14:33:48 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 14:34:55 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:34:55 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:34:55 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:34:55 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:35:03 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 9612 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 14:35:16 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:35:16 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:35:16 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:35:16 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:35:24 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 8408 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 14:35:28 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 14:36:06 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:36:06 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:36:06 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:36:06 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:36:16 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 524 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 14:36:18 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 14:36:35 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 14:38:41 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:38:41 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:38:41 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:38:41 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:38:48 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 4776 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 14:38:51 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 14:39:17 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 14:39:39 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:39:39 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:39:39 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:39:39 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:39:46 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 4224 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 14:39:49 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 14:40:35 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:40:35 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:40:35 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:40:35 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:40:43 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 336 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 14:40:45 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 14:40:51 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 14:40:56 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:40:56 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:40:56 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:40:56 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:41:03 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 8252 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 14:41:07 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 14:42:06 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:42:06 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:42:06 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:42:06 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:42:13 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 9664 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 14:42:15 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 14:42:43 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:42:43 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:42:43 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:42:43 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:42:50 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 8616 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 14:42:51 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 14:43:11 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:43:11 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:43:11 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:43:11 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:43:20 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 9016 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 14:43:22 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 14:43:58 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:43:58 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:43:58 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:43:58 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:44:06 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 5696 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 14:44:09 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 14:44:46 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:44:46 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:44:46 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:44:46 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:44:56 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 1620 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 14:45:03 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Usuario no logueado","data":null}
+{"timestamp":"Mon Oct 10 2022 14:45:03 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /css/estilos.css no implementada","data":null}
+{"timestamp":"Mon Oct 10 2022 14:45:04 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /favicon.ico no implementada","data":null}
+{"timestamp":"Mon Oct 10 2022 14:45:34 GMT-0300 (hora estándar de Argentina)","level":"error","message":{},"data":null}
+{"timestamp":"Mon Oct 10 2022 14:46:51 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:46:51 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:46:51 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:46:51 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:47:02 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 8616 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 14:47:16 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Usuario no logueado","data":null}
+{"timestamp":"Mon Oct 10 2022 14:47:16 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /css/estilos.css no implementada","data":null}
+{"timestamp":"Mon Oct 10 2022 14:47:16 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /favicon.ico no implementada","data":null}
+{"timestamp":"Mon Oct 10 2022 14:47:26 GMT-0300 (hora estándar de Argentina)","level":"error","message":{},"data":null}
+{"timestamp":"Mon Oct 10 2022 14:47:26 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Usuario no logueado","data":null}
+{"timestamp":"Mon Oct 10 2022 14:47:26 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /css/estilos.css no implementada","data":null}
+{"timestamp":"Mon Oct 10 2022 14:47:26 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /favicon.ico no implementada","data":null}
+{"timestamp":"Mon Oct 10 2022 14:48:57 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:48:57 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:48:57 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:48:57 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:49:06 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 8488 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 14:49:25 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /favicon.ico no implementada","data":null}
+{"timestamp":"Mon Oct 10 2022 14:50:12 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /css/estilos.css no implementada","data":null}
+{"timestamp":"Mon Oct 10 2022 14:53:06 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:53:06 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:53:06 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:53:06 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:53:17 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 4372 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 14:53:23 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Usuario no logueado","data":null}
+{"timestamp":"Mon Oct 10 2022 14:53:23 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /css/estilos.css no implementada","data":null}
+{"timestamp":"Mon Oct 10 2022 14:53:23 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /favicon.ico no implementada","data":null}
+{"timestamp":"Mon Oct 10 2022 14:58:08 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:58:08 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:58:08 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:58:08 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 14:58:17 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 7432 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 14:58:22 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Usuario no logueado","data":null}
+{"timestamp":"Mon Oct 10 2022 14:58:22 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /css/estilos.css no implementada","data":null}
+{"timestamp":"Mon Oct 10 2022 14:58:23 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /favicon.ico no implementada","data":null}
+{"timestamp":"Mon Oct 10 2022 15:00:42 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 15:00:42 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 15:00:42 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 15:00:42 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 15:00:51 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 9444 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 15:01:27 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 15:01:27 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 15:01:27 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 15:01:27 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 15:01:34 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 7920 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 15:01:39 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Usuario no logueado","data":null}
+{"timestamp":"Mon Oct 10 2022 15:01:39 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /css/estilos.css no implementada","data":null}
+{"timestamp":"Mon Oct 10 2022 15:01:39 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /favicon.ico no implementada","data":null}
+{"timestamp":"Mon Oct 10 2022 15:02:40 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 15:02:40 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 15:02:40 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 15:02:40 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 15:02:58 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 5424 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 15:03:00 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 15:03:53 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 15:04:07 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 15:04:07 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 15:04:07 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 15:04:07 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 15:04:16 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 7528 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 15:05:13 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 15:05:34 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 15:07:09 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 15:07:48 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 15:07:48 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 15:07:48 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 15:07:48 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 15:07:56 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 5348 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 15:07:59 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 15:08:32 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 15:08:34 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 15:08:34 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 15:08:35 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 15:08:35 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 15:08:35 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 15:08:36 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 15:08:36 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 15:08:36 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 15:08:36 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 15:08:37 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 15:09:04 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 15:25:00 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 15:25:01 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 15:25:01 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 15:25:01 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 15:25:11 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 7596 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 15:25:21 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 15:25:39 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 17:07:31 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:07:31 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:07:31 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:07:31 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:07:47 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 10076 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 17:08:45 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 17:10:06 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:10:06 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:10:06 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:10:06 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:10:16 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 5484 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 17:10:21 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 17:11:12 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 17:12:05 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 17:12:58 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta POST /api/usuarioPorUsername/ no implementada","data":null}
+{"timestamp":"Mon Oct 10 2022 17:13:23 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta POST /api/usuarioPorUsername/ no implementada","data":null}
+{"timestamp":"Mon Oct 10 2022 17:13:27 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 17:13:30 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 17:13:30 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 17:14:35 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:14:35 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:14:35 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:14:35 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:14:43 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 7324 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 17:15:00 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 17:18:19 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:18:19 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:18:19 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:18:19 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:18:27 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 6892 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 17:18:33 GMT-0300 (hora estándar de Argentina)","level":"error","message":"SyntaxError: Unexpected token o in JSON at position 1 - Fail to read archive","data":null}
+{"timestamp":"Mon Oct 10 2022 17:19:45 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:19:45 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:19:45 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:19:45 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:19:52 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 4824 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 17:22:19 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:22:19 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:22:19 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:22:19 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:22:29 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 8888 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 17:22:55 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:22:55 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:22:55 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:22:55 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:23:03 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 9148 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 17:23:51 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:23:51 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:23:51 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:23:51 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:23:59 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 4648 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 17:24:22 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:24:22 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:24:22 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:24:22 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:24:31 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 9232 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 17:25:57 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:25:57 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:25:57 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:25:57 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:26:04 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 6200 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 17:26:26 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:26:26 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:26:26 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:26:26 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:26:35 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 8888 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 17:26:51 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:26:51 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:26:51 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:26:51 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:26:58 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 8072 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 17:27:05 GMT-0300 (hora estándar de Argentina)","level":"error","message":{},"data":null}
+{"timestamp":"Mon Oct 10 2022 17:27:49 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:27:49 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:27:49 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:27:49 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:27:57 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 2072 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 17:28:09 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 17:35:51 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:35:51 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:35:51 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:35:51 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:36:00 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 1700 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 17:36:04 GMT-0300 (hora estándar de Argentina)","level":"error","message":"TypeError: Cannot destructure property 'username' of 'undefined' as it is undefined. - Fail to read archive","data":null}
+{"timestamp":"Mon Oct 10 2022 17:40:14 GMT-0300 (hora estándar de Argentina)","level":"error","message":"TypeError: Cannot destructure property 'username' of 'undefined' as it is undefined. - Fail to read archive","data":null}
+{"timestamp":"Mon Oct 10 2022 17:40:17 GMT-0300 (hora estándar de Argentina)","level":"error","message":{},"data":null}
+{"timestamp":"Mon Oct 10 2022 17:40:20 GMT-0300 (hora estándar de Argentina)","level":"error","message":{},"data":null}
+{"timestamp":"Mon Oct 10 2022 17:40:44 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:40:44 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:40:44 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:40:44 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:40:54 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 5032 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 17:41:57 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:41:57 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:41:57 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:41:57 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:42:06 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 9684 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 17:42:25 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:42:25 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:42:25 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:42:25 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:42:34 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 7772 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 17:46:10 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:46:10 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:46:10 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:46:10 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:46:21 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 6416 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 17:47:45 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:47:45 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:47:45 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:47:45 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:47:54 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 3384 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 17:48:25 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:48:25 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:48:25 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:48:25 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:48:34 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 8376 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 17:48:55 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:48:55 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:48:55 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:48:55 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:49:03 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 3860 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 17:49:27 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:49:27 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:49:27 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:49:28 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:49:35 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 776 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 17:50:45 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:50:45 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:50:45 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:50:45 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:50:52 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 8376 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 17:51:15 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:51:15 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:51:15 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:51:15 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:51:24 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 5136 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 17:52:03 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:52:03 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:52:03 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:52:03 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:52:11 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 4932 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 17:52:36 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 17:52:50 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:52:50 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:52:50 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:52:50 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:52:58 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 5820 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 17:56:12 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:56:12 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:56:12 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:56:12 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:56:23 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 4040 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 17:56:32 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 17:57:00 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 17:57:37 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 17:58:44 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Usuario no logueado","data":null}
+{"timestamp":"Mon Oct 10 2022 17:58:45 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /css/estilos.css no implementada","data":null}
+{"timestamp":"Mon Oct 10 2022 17:58:45 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /favicon.ico no implementada","data":null}
+{"timestamp":"Mon Oct 10 2022 17:59:30 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:59:30 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:59:30 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:59:30 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 17:59:37 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 2080 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 17:59:43 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Usuario no logueado","data":null}
+{"timestamp":"Mon Oct 10 2022 17:59:43 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /css/estilos.css no implementada","data":null}
+{"timestamp":"Mon Oct 10 2022 17:59:44 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /favicon.ico no implementada","data":null}
+{"timestamp":"Mon Oct 10 2022 18:00:37 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 18:00:37 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 18:00:37 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 18:00:37 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 18:00:45 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 9776 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 18:00:48 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Usuario no logueado","data":null}
+{"timestamp":"Mon Oct 10 2022 18:00:49 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /css/estilos.css no implementada","data":null}
+{"timestamp":"Mon Oct 10 2022 18:00:49 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /favicon.ico no implementada","data":null}
+{"timestamp":"Mon Oct 10 2022 18:01:57 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 18:01:57 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 18:01:57 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 18:01:57 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 18:02:07 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 8188 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 18:02:13 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Usuario no logueado","data":null}
+{"timestamp":"Mon Oct 10 2022 18:02:13 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /css/estilos.css no implementada","data":null}
+{"timestamp":"Mon Oct 10 2022 18:02:13 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /favicon.ico no implementada","data":null}
+{"timestamp":"Mon Oct 10 2022 18:02:42 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 18:02:42 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 18:02:42 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 18:02:42 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 18:02:51 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 6596 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 18:02:53 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Usuario no logueado","data":null}
+{"timestamp":"Mon Oct 10 2022 18:02:53 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /css/estilos.css no implementada","data":null}
+{"timestamp":"Mon Oct 10 2022 18:02:54 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /favicon.ico no implementada","data":null}
+{"timestamp":"Mon Oct 10 2022 19:34:53 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 19:34:53 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 19:34:53 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 19:34:53 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 19:35:11 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 9372 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 19:35:19 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 19:36:05 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 19:36:05 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 19:36:05 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 19:36:05 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 19:36:13 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 7868 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 19:36:15 GMT-0300 (hora estándar de Argentina)","level":"error","message":{},"data":null}
+{"timestamp":"Mon Oct 10 2022 19:39:10 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 19:39:10 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 19:39:10 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 19:39:10 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 19:39:18 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 9972 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 19:39:46 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 19:39:46 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 19:39:46 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 19:39:46 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 19:39:53 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 5328 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 19:39:57 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 19:40:13 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 19:40:22 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 19:40:32 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 19:40:51 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 19:40:57 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 19:41:02 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 19:41:08 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 19:41:23 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 19:42:19 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Usuario no logueado","data":null}
+{"timestamp":"Mon Oct 10 2022 19:42:20 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /css/estilos.css no implementada","data":null}
+{"timestamp":"Mon Oct 10 2022 19:42:20 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /favicon.ico no implementada","data":null}
+{"timestamp":"Mon Oct 10 2022 19:45:52 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 19:45:52 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 19:45:52 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 19:45:52 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 19:46:00 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 8140 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 19:46:04 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Usuario no logueado","data":null}
+{"timestamp":"Mon Oct 10 2022 19:46:04 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /css/estilos.css no implementada","data":null}
+{"timestamp":"Mon Oct 10 2022 19:46:04 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /favicon.ico no implementada","data":null}
+{"timestamp":"Mon Oct 10 2022 19:46:32 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 19:46:32 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 19:46:32 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 19:46:32 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 19:46:39 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 7504 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 19:46:45 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Usuario no logueado","data":null}
+{"timestamp":"Mon Oct 10 2022 19:46:45 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /css/estilos.css no implementada","data":null}
+{"timestamp":"Mon Oct 10 2022 19:46:46 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /favicon.ico no implementada","data":null}
+{"timestamp":"Mon Oct 10 2022 19:51:20 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 19:51:20 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 19:51:20 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 19:51:20 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 19:51:27 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 9620 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 19:51:31 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Usuario no logueado","data":null}
+{"timestamp":"Mon Oct 10 2022 19:51:31 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /css/estilos.css no implementada","data":null}
+{"timestamp":"Mon Oct 10 2022 19:51:31 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /favicon.ico no implementada","data":null}
+{"timestamp":"Mon Oct 10 2022 19:57:43 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 19:57:43 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 19:57:43 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 19:57:43 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 19:57:54 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 7464 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 19:57:54 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Usuario no logueado","data":null}
+{"timestamp":"Mon Oct 10 2022 19:57:54 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /css/estilos.css no implementada","data":null}
+{"timestamp":"Mon Oct 10 2022 19:57:55 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /favicon.ico no implementada","data":null}
+{"timestamp":"Mon Oct 10 2022 19:58:31 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 19:58:31 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 19:58:31 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 19:58:31 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 19:58:41 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 6680 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 19:58:41 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Usuario no logueado","data":null}
+{"timestamp":"Mon Oct 10 2022 19:58:41 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /css/estilos.css no implementada","data":null}
+{"timestamp":"Mon Oct 10 2022 19:58:41 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /favicon.ico no implementada","data":null}
+{"timestamp":"Mon Oct 10 2022 19:59:35 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 19:59:35 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 19:59:35 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 19:59:35 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 19:59:43 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 7296 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 19:59:47 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Usuario no logueado","data":null}
+{"timestamp":"Mon Oct 10 2022 19:59:47 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /css/estilos.css no implementada","data":null}
+{"timestamp":"Mon Oct 10 2022 19:59:48 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /favicon.ico no implementada","data":null}
+{"timestamp":"Mon Oct 10 2022 20:01:13 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 20:01:13 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 20:01:13 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 20:01:13 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 20:01:20 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 6756 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 20:01:25 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Usuario no logueado","data":null}
+{"timestamp":"Mon Oct 10 2022 20:01:25 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /css/estilos.css no implementada","data":null}
+{"timestamp":"Mon Oct 10 2022 20:01:25 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /favicon.ico no implementada","data":null}
+{"timestamp":"Mon Oct 10 2022 20:02:36 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 20:02:36 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 20:02:36 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 20:02:36 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 20:02:45 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 5060 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 20:02:47 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Usuario no logueado","data":null}
+{"timestamp":"Mon Oct 10 2022 20:02:47 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /css/estilos.css no implementada","data":null}
+{"timestamp":"Mon Oct 10 2022 20:02:48 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /favicon.ico no implementada","data":null}
+{"timestamp":"Mon Oct 10 2022 20:02:50 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 20:03:08 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 20:04:46 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /css/estilos.css no implementada","data":null}
+{"timestamp":"Mon Oct 10 2022 20:04:50 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 20:04:52 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 20:04:53 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 20:05:55 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 20:05:55 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 20:05:55 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 20:05:55 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 20:06:02 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 3852 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 20:06:07 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Usuario no logueado","data":null}
+{"timestamp":"Mon Oct 10 2022 20:06:07 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /css/estilos.css no implementada","data":null}
+{"timestamp":"Mon Oct 10 2022 20:06:07 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /favicon.ico no implementada","data":null}
+{"timestamp":"Mon Oct 10 2022 20:06:11 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 20:06:13 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 20:06:13 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 20:06:13 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 20:06:13 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 20:06:13 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 20:06:14 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 20:06:44 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 20:06:44 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 20:06:44 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 20:06:44 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 20:06:52 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 6528 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 20:06:58 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 20:09:19 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 20:09:19 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 20:09:19 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 20:09:19 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 20:09:27 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 9548 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 20:09:44 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Usuario no logueado","data":null}
+{"timestamp":"Mon Oct 10 2022 20:09:44 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /css/estilos.css no implementada","data":null}
+{"timestamp":"Mon Oct 10 2022 20:09:45 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /favicon.ico no implementada","data":null}
+{"timestamp":"Mon Oct 10 2022 20:10:25 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 20:10:25 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 20:10:25 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 20:10:25 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 20:10:32 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 7968 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 20:10:37 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Usuario no logueado","data":null}
+{"timestamp":"Mon Oct 10 2022 20:10:37 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /css/estilos.css no implementada","data":null}
+{"timestamp":"Mon Oct 10 2022 20:10:38 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /favicon.ico no implementada","data":null}
+{"timestamp":"Mon Oct 10 2022 20:13:24 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 20:13:24 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 20:13:24 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 20:13:24 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 20:13:33 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 7840 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 20:13:40 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Usuario no logueado","data":null}
+{"timestamp":"Mon Oct 10 2022 20:13:40 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /css/estilos.css no implementada","data":null}
+{"timestamp":"Mon Oct 10 2022 20:13:40 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /favicon.ico no implementada","data":null}
+{"timestamp":"Mon Oct 10 2022 20:15:54 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 20:15:54 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 20:15:54 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 20:15:54 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 20:16:02 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 4728 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 20:16:06 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Usuario no logueado","data":null}
+{"timestamp":"Mon Oct 10 2022 20:16:07 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /css/estilos.css no implementada","data":null}
+{"timestamp":"Mon Oct 10 2022 20:16:07 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /favicon.ico no implementada","data":null}
+{"timestamp":"Mon Oct 10 2022 20:16:10 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 20:30:37 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 20:30:37 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 20:30:37 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 20:30:37 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 20:30:45 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 2356 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 20:30:50 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Usuario no logueado","data":null}
+{"timestamp":"Mon Oct 10 2022 20:30:50 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /css/estilos.css no implementada","data":null}
+{"timestamp":"Mon Oct 10 2022 20:30:50 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /favicon.ico no implementada","data":null}
+{"timestamp":"Mon Oct 10 2022 20:31:14 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 20:31:14 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 20:31:14 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 20:31:14 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 20:31:22 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 6080 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 20:31:28 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Usuario no logueado","data":null}
+{"timestamp":"Mon Oct 10 2022 20:31:28 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /css/estilos.css no implementada","data":null}
+{"timestamp":"Mon Oct 10 2022 20:31:28 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /favicon.ico no implementada","data":null}
+{"timestamp":"Mon Oct 10 2022 20:31:31 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 20:31:47 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 20:31:47 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 20:31:47 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 20:31:47 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 20:31:57 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 9692 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 20:32:07 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Usuario no logueado","data":null}
+{"timestamp":"Mon Oct 10 2022 20:32:07 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /css/estilos.css no implementada","data":null}
+{"timestamp":"Mon Oct 10 2022 20:32:08 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /favicon.ico no implementada","data":null}
+{"timestamp":"Mon Oct 10 2022 20:32:10 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 20:32:12 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 20:32:12 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 20:32:12 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 20:32:33 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 20:32:38 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 20:32:38 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 20:32:39 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 20:32:39 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 20:34:07 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 20:34:07 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 20:34:07 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 20:34:07 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Mon Oct 10 2022 20:34:17 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 9652 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Mon Oct 10 2022 20:34:20 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Usuario no logueado","data":null}
+{"timestamp":"Mon Oct 10 2022 20:34:20 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /css/estilos.css no implementada","data":null}
+{"timestamp":"Mon Oct 10 2022 20:34:21 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /favicon.ico no implementada","data":null}
+{"timestamp":"Mon Oct 10 2022 20:34:28 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 20:34:28 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 20:35:12 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 20:35:13 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 20:35:13 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 20:35:13 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Mon Oct 10 2022 20:35:13 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}

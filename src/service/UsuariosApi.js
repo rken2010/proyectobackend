@@ -5,7 +5,7 @@ class UsuariosApi{
     constructor(){
         this.usuariosDAO = UsuariosFactoryDAO.get( config.PERSISTENCIA )
     }
-    async obtenerUsuarios() { return await this.usuariosDAO.getAll()}
+    async obtenerUsuarios() { return await this.usuariosDAO.getAllByDTO()}
     async obtenerUsuarioPorId(id) { return await this.usuariosDAO.getByID(id)}
     async obtenerUsuarioPorUsername(username) { return await this.usuariosDAO.getByUsername(username)}
     async guardarUsuario( usuario ) { return await this.usuariosDAO.save( usuario )}

@@ -25,17 +25,18 @@ class ControladorUsuarios{
             logger.error(error)
         }
     }
-    obtenerPorUsername(username) { async ( req, res) => {
+    obtenerPorUsername =  async ( req, res) => {
         try{
-           
-            let usuario = await this.apiUsuarios.obtenerUsuarioPorUsername(username)
-            res.send( usuario )
+            let username = req.body
+            console.log(username);
+            let usuario = await this.apiUsuarios.obtenerUsuarioPorUsername( username )
+            res.json( usuario )
 
         }
         catch(error){
             logger.error(error)
         }
-    }}
+    }
     
     guardar = async ( req, res) => {
         try{

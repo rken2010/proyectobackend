@@ -10,6 +10,7 @@ class RouterUsuarios {
     inicializar(){
         router.get("/api/usuarios", this.controladorUsuarios.obtenerTodos)
         router.get("/api/usuario/:id?", this.controladorUsuarios.obtenerPorId)
+        router.get("/api/usuarioPorUsername/", this.controladorUsuarios.obtenerPorUsername)
         router.post("/api/usuario", this.controladorUsuarios.guardar)
         router.put("/api/usuario/:id?", this.controladorUsuarios.actualizar)
         router.delete("/api/usuario/:id?", this.controladorUsuarios.borrarPorId)

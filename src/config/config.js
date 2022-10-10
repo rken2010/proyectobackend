@@ -9,7 +9,7 @@ dotenv.config({
 })
 
 export default {
-    NODE_ENV: process.env.NODE_ENV  ,
+    NODE_ENV: process.env.NODE_ENV,
     HOST: process.env.HOST || "localhost",
     PORT: process.env.PORT || 8080,
     PERSISTENCIA: process.env.PERSISTENCIA || "MEM",

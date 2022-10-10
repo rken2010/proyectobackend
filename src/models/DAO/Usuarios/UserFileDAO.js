@@ -1,7 +1,8 @@
 import { promises as fs } from 'fs';
 import logger from "../../../scripts/logger.js"
+import { transformarADTO } from '../../DTO/UsuariosDTO.js';
 
-class ProductFileDAO {
+class UserFileDAO {
     constructor(file) {
         this.file = file;
     }
@@ -15,22 +16,34 @@ class ProductFileDAO {
           return []
         }
     }
+    async getAllByDTO() {
+        try {
+            const user = await this.getAll()
+            return transformarADTO(user)
+        } catch (error) {
+          logger.error(`${error} - Fail to read archive`)
+          return []
+        }
+    }
 
     async getByID(id) {
         const user = await this.getAll()
         let search = user.find(element => element.id  === parseInt(id))
-                  if( search != null ){ return search }
-                  else{ 
-                    logger.error(`Product not found`)
-                    return {error: "No se encontro el producto"} 
+        if( search != null ){ return transformarADTO(search) }
+        else{ 
+                    logger.error(`User not found`)
+                    return {error: "No se encontro el usuario"} 
                   }
     }
     async getByUsername(username) {
         const users = await this.getAll()
-        let search = username.find(users => users.username  == username)
+       
+        let search = users.find(users => users.username  == username)
+        
                   if( search != null ){ return search }
                   else{ 
                     logger.error(`User not found`)
+                    console.log(search);
                     return {error: "No se encontro el usuario"} 
                   }
     }
@@ -98,4 +111,4 @@ class ProductFileDAO {
     }
 }
 
-export default ProductFileDAO
+export default UserFileDAO
