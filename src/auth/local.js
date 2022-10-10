@@ -1,13 +1,13 @@
 import passport from "passport";
 import { Strategy } from "passport-local";
-import ControladorUsuarios from "./../controladores/Usuarios.js"
+import UsuariosApi from "../service/UsuariosApi.js"
 
-const controladorUsuario = new ControladorUsuarios()
+let apiUsuarios = new UsuariosApi()
 
 passport.serializeUser( (user, done) => { done(null, user.id)})
 
 passport.deserializeUser( async (id, done) => {
-    const user = await controladorUsuario.obtenerPorId(id) //TODO ------ CAMBIAR POR EL CONTROLADOR --------------//
+    const user = await apiUsuarios.obtenerPorId(id)
     done( null, user )
 })
 /*
@@ -30,21 +30,25 @@ passport.use("login", new Strategy({
     }
 }))
 */
-passport.use("signin", new Strategy(  {
+passport.use("login", new Strategy(  {
     usernameField: "username",
     passwordField: "password",
     passReqToCallback: true
 
-} , async ( req, username, password, done ) => {
-    const user = controladorUsuario.obtenerPorUsername(username)
-    const data = req.body
-    console.log(user);
-    console.log(data);
+} , async (  username, password, done ) => {
 
+    const obtainUser = await apiUsuarios.obtenerUsuarioPorUsername(username)
+
+    const user = async() => { await obtainUser}
+    console.log(user);
+    
     if(!user){
+        console.log(user);
         return done( null, false)
     }
-    if ( user.password == password ){
+    if ( user.password === password ){
+        console.log(user);
         return done(null, user)
     }
-} ))
+    
+}))
