@@ -7,7 +7,7 @@ let apiUsuarios = new UsuariosApi()
 passport.serializeUser( (user, done) => { done(null, user.id)})
 
 passport.deserializeUser( async (id, done) => {
-    const user = await apiUsuarios.obtenerPorId(id)
+    const user = await apiUsuarios.obtenerUsuarioPorId(id)
     done( null, user )
 })
 /*
@@ -30,25 +30,18 @@ passport.use("login", new Strategy({
     }
 }))
 */
-passport.use("login", new Strategy(  {
-    usernameField: "username",
-    passwordField: "password",
-    passReqToCallback: true
-
-} , async (  username, password, done ) => {
-
-    const obtainUser = await apiUsuarios.obtenerUsuarioPorUsername(username)
-
-    const user = async() => { await obtainUser}
-    console.log(user);
-    
-    if(!user){
-        console.log(user);
-        return done( null, false)
-    }
-    if ( user.password === password ){
-        console.log(user);
-        return done(null, user)
-    }
-    
-}))
+passport.use("login", new Strategy(  
+    function(username, password, done) {
+        apiUsuarios.obtenerUsuarioPorUsername(username)
+            .then( user => { 
+                
+                if (!user) { return done(null, false); }
+                if (!user.password == password) { return done(null, false); }
+                    return done(null, user);}
+            )
+            .catch( err => {
+                console.log(err)
+                return done(err)
+            })
+        })  
+)
