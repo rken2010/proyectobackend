@@ -4,7 +4,8 @@ export default class ControladorLogin{
     //getRoot( req, res) { res.render("home", {nombre: req.session?.nombre})}
     getLogin(req, res){
         if( req.isAuthenticated()) {
-            let user = req.user
+            let user = req.session?.username
+            console.log(user)
             logger.info("Usuario logueado")
             res.render("home", {nombre:user})
         }
