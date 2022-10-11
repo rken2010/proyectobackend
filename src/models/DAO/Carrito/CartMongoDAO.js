@@ -1,4 +1,4 @@
-import carritos from "../../schema/Carritoschema.js"
+import carritos from "../../schema/CarritoSchema.js"
 import logger from "../../../scripts/logger.js";
 import { connectToDB, disconnectToDB,  } from "../connectDB.js";
 
