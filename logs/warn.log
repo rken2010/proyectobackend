@@ -709,3 +709,7 @@
 {"timestamp":"Mon Oct 10 2022 21:20:03 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /favicon.ico no implementada","data":null}
 {"timestamp":"Mon Oct 10 2022 21:20:07 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
 {"timestamp":"Mon Oct 10 2022 21:20:21 GMT-0300 (hora estándar de Argentina)","level":"error","message":"User not found","data":null}
+{"timestamp":"Tue Oct 11 2022 15:54:00 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /css/estilos.css no implementada","data":null}
+{"timestamp":"Tue Oct 11 2022 15:54:00 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /favicon.ico no implementada","data":null}
+{"timestamp":"Tue Oct 11 2022 15:54:10 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /css/estilos.css no implementada","data":null}
+{"timestamp":"Tue Oct 11 2022 15:54:10 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /favicon.ico no implementada","data":null}

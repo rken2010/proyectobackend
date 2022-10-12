@@ -2680,3 +2680,14 @@
 {"timestamp":"Mon Oct 10 2022 21:20:26 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
 {"timestamp":"Mon Oct 10 2022 21:20:26 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
 {"timestamp":"Mon Oct 10 2022 21:20:39 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 9652 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Tue Oct 11 2022 15:53:43 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Tue Oct 11 2022 15:53:43 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Tue Oct 11 2022 15:53:43 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Tue Oct 11 2022 15:53:43 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Conectado a la Base de datos","data":null}
+{"timestamp":"Tue Oct 11 2022 15:53:50 GMT-0300 (hora estándar de Argentina)","level":"info","message":"App listening at http://localhost:8080 - PID 6616 - MODO development - PERSISTENCIA: FILE","data":null}
+{"timestamp":"Tue Oct 11 2022 15:54:00 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Usuario no logueado","data":null}
+{"timestamp":"Tue Oct 11 2022 15:54:00 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /css/estilos.css no implementada","data":null}
+{"timestamp":"Tue Oct 11 2022 15:54:00 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /favicon.ico no implementada","data":null}
+{"timestamp":"Tue Oct 11 2022 15:54:09 GMT-0300 (hora estándar de Argentina)","level":"info","message":"Usuario logueado","data":null}
+{"timestamp":"Tue Oct 11 2022 15:54:10 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /css/estilos.css no implementada","data":null}
+{"timestamp":"Tue Oct 11 2022 15:54:10 GMT-0300 (hora estándar de Argentina)","level":"warn","message":"Ruta GET /favicon.ico no implementada","data":null}

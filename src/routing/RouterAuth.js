@@ -14,6 +14,7 @@ class RouterLogin {
     inicializar(){
         //router.get("/", this.ControladorLogin.getRoot)
         //?login
+        router.get("/", (req, res) => { res.redirect("/login")})
         router.get("/login", this.controladorLogin.getLogin)
         router.post("/login", passport.authenticate("login", { failureRedirect:"/faillogin"}), this.controladorLogin.getLogin)
         router.get("/faillogin", this.controladorLogin.getFaillogin)
